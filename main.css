@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Merienda:wght@300..900&display=swap");
+body {
+  margin: 0;
+  display: flex;
+  align-items: center;
+  margin: 0 auto;
+  text-align: center;
+  height: 100vh;
+  background-color: saddlebrown;
+  font-family: "Merienda", cursive;
+  font-optical-sizing: auto;
+  font-style: normal;
+} 
+
+.container {
+     width: 700px;
+     display: flex;
+     justify-content: start;
+     margin: 0 auto;
+}
+
